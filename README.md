@@ -1,7 +1,7 @@
-# POC Integration of TestCafe, CucumberJS and Allure
+# POC integration of TestCafe, CucumberJS and Allure Report
 All tests are run against the application in the repository [automation-test-form](https://github.com/heziofernandes/automation-test-form.git)
 
-This is a demonstration of integration [TestCafé](https://github.com/DevExpress/testcafe) into [CucumberJS](https://github.com/cucumber/cucumber-js) tests using TestCafe, Cucumber and [Allure](http://allure.qatools.ru/).
+This is a demonstration of integration [TestCafé](https://github.com/DevExpress/testcafe) into [CucumberJS](https://github.com/cucumber/cucumber-js) tests using TestCafe, Cucumber and [Allure Report](http://allure.qatools.ru/).
 
 ## Installation 
 
