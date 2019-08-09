@@ -1,0 +1,107 @@
+{
+  "1a7741239e32a18ea9131fdfbe070f95" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "1029653483b087c7",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1565177345717,
+        "stop" : 1565177354893,
+        "duration" : 9176
+      }
+    }, {
+      "uid" : "ff590638f373bc9f",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1565177345717,
+        "stop" : 1565177354893,
+        "duration" : 9176
+      }
+    }, {
+      "uid" : "1abe8f087e606dde",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1565177345717,
+        "stop" : 1565177354893,
+        "duration" : 9176
+      }
+    }, {
+      "uid" : "ad12cb20686d4904",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1565176746171,
+        "stop" : 1565176757128,
+        "duration" : 10957
+      }
+    }, {
+      "uid" : "71237aecbbc91b6d",
+      "status" : "failed",
+      "statusDetails" : "This test has been broken",
+      "time" : {
+        "start" : 1565172268996,
+        "stop" : 1565172282893,
+        "duration" : 13897
+      }
+    } ]
+  },
+  "b3ac0ff084049961c0603fd760032f35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "6e7e3c1342fdda16",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1565310504654,
+        "stop" : 1565310518896,
+        "duration" : 14242
+      }
+    }, {
+      "uid" : "4cb94b4508f28dcd",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1565308454603,
+        "stop" : 1565308464832,
+        "duration" : 10229
+      }
+    } ]
+  },
+  "5aae1f13a59f7e196a14d7a1360ee398" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89d3053cdf121105",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1565309389244,
+        "stop" : 1565309398852,
+        "duration" : 9608
+      }
+    } ]
+  }
+}

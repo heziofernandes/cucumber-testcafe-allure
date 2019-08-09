@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "fixture",
+    "children" : [ {
+      "name" : "test",
+      "uid" : "1029653483b087c7",
+      "parentUid" : "591398d3468c946b295d6d00e95b66b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565177345717,
+        "stop" : 1565177354893,
+        "duration" : 9176
+      },
+      "flaky" : true,
+      "parameters" : [ "Chrome 75.0.3770 / Windows 10.0.0" ]
+    }, {
+      "name" : "test",
+      "uid" : "89d3053cdf121105",
+      "parentUid" : "591398d3468c946b295d6d00e95b66b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565309389244,
+        "stop" : 1565309398852,
+        "duration" : 9608
+      },
+      "flaky" : false,
+      "parameters" : [ "HeadlessChrome 75.0.3770 / Mac OS X 10.14.6" ]
+    }, {
+      "name" : "test",
+      "uid" : "6e7e3c1342fdda16",
+      "parentUid" : "591398d3468c946b295d6d00e95b66b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565310504654,
+        "stop" : 1565310518896,
+        "duration" : 14242
+      },
+      "flaky" : false,
+      "parameters" : [ "Chrome 75.0.3770 / Mac OS X 10.14.6" ]
+    } ],
+    "uid" : "591398d3468c946b295d6d00e95b66b1"
+  } ]
+}
